@@ -2,7 +2,19 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/3_1_ex" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3_1_ex/03_01.SpeedingTicket" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3_1_ex/03_02.Positivity" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3_1_ex/03_03.LargerThanOrEqualTo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3_1_ex/03_04.GradesAndPoints" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3_1_ex/03_05.OddOrEven" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3_1_ex/03_06.Password" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3_1_ex/03_07.Same" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3_1_ex/03_08.CheckingTheAge" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3_1_ex/03_09.LeapYear" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3_1_ex/03_10.GiftTax" isTestSource="false" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
