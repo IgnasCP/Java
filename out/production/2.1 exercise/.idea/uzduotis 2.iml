@@ -5,7 +5,5 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Maven: junit:junit:4.12" level="project" />
-    <orderEntry type="library" name="Maven: fi.helsinki.cs.tmc:edu-test-utils:0.4.2" level="project" />
   </component>
 </module>

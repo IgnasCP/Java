@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/3_1ex/03_01.SpeedingTicket/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3_1ex/03_01.SpeedingTicket/src/test" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/3_1ex/03_02.Positivity/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3_1ex/03_02.Positivity/src/test" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/3_1ex/03_03.LargerThanOrEqualTo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3_1ex/03_03.LargerThanOrEqualTo/src/test" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/3_1ex/03_04.GradesAndPoints/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3_1ex/03_04.GradesAndPoints/src/test" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/3_1ex/03_05.OddOrEven/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3_1ex/03_05.OddOrEven/src/test" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/3_1ex/03_06.Password/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3_1ex/03_06.Password/src/test" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/3_1ex/03_07.Same/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3_1ex/03_07.Same/src/test" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/3_1ex/03_08.CheckingTheAge/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3_1ex/03_08.CheckingTheAge/src/test" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/3_1ex/03_09.LeapYear/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3_1ex/03_09.LeapYear/src/test" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/3_1ex/03_10.GiftTax/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3_1ex/03_10.GiftTax/src/test" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/4_2ex/04_11.Counting/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4_2ex/04_11.Counting/src/test" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/4_2ex/04_12.CountingToHundred/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4_2ex/04_12.CountingToHundred/src/test" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/4_2ex/04_13.FromWhereToWhere/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4_2ex/04_13.FromWhereToWhere/src/test" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/4_2ex/04_14.SumOfASequence/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4_2ex/04_14.SumOfASequence/src/test" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/4_2ex/04_15.SumOfASequenceTheSequel/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4_2ex/04_15.SumOfASequenceTheSequel/src/test" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/4_2ex/04_16.Factorial/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4_2ex/04_16.Factorial/src/test" type="java-test-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: junit:junit:4.12" level="project" />
+    <orderEntry type="library" name="Maven: fi.helsinki.cs.tmc:edu-test-utils:0.4.2" level="project" />
+  </component>
+</module>

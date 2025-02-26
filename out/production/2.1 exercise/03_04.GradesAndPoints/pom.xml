@@ -2,8 +2,8 @@
 <project>
     <modelVersion>4.0.0</modelVersion>
     <groupId>tkt</groupId>
-    <artifactId>04_16.Factorial</artifactId>
-    <name>04_15.Factorial</name>
+    <artifactId>03_04.gradesAndPoints</artifactId>
+    <name>03_04.GradesAndPoints</name>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     
@@ -27,8 +27,7 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-
-
+   
     <build>
         <plugins>
             <plugin>
